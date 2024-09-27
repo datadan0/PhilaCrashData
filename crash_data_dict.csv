@@ -1,0 +1,809 @@
+﻿Field,Code-Value
+ACCESS_CTRL,1 - Limited Access
+ACCESS_CTRL,2 - Partial Access
+ACCESS_CTRL,3 - No Access Control
+AIRBAG1,00 - Not Deployed
+AIRBAG1,01 - Curtain
+AIRBAG1,02 - Front
+AIRBAG1,03 - Side
+AIRBAG1,04 - Other
+AIRBAG1,97 - Not Applicable
+AIRBAG1,M - Multiple (unspecified)
+AIRBAG2,00 - Not Deployed
+AIRBAG2,01 - Curtain
+AIRBAG2,02 - Front
+AIRBAG2,03 - Side
+AIRBAG2,04 - Other
+AIRBAG2,97 - Not Applicable
+AIRBAG2,M - Multiple (unspecified)
+AIRBAG3,00 - Not Deployed
+AIRBAG3,01 - Curtain
+AIRBAG3,02 - Front
+AIRBAG3,03 - Side
+AIRBAG3,04 - Other
+AIRBAG3,97 - Not Applicable
+AIRBAG3,M - Multiple (unspecified)
+AIRBAG4,00 - Not Deployed
+AIRBAG4,01 - Curtain
+AIRBAG4,02 - Front
+AIRBAG4,03 - Side
+AIRBAG4,04 - Other
+AIRBAG4,97 - Not Applicable
+AIRBAG4,M - Multiple (unspecified)
+AIRBAG_PADS,00 - None used or not applicable
+AIRBAG_PADS,05 - Motorcycle eye protection
+AIRBAG_PADS,"06 - Bicyclist wearing elbow, knee or other pads"
+AIRBAG_PADS,08 - Airbag(s) Deployed
+AIRBAG_PADS,09 - Airbag(s) Not Deployed
+AIRBAG_PADS,13 - Air bag removed (prior to crash)
+AIRBAG_PADS,19 - Unknown if air bag deployed
+AIRBAG_PADS,99 - Unknown
+AVOID_MAN_CD,0 - No avoidance maneuver
+AVOID_MAN_CD,1 - Braking - skid marks evident
+AVOID_MAN_CD,"2 - Braking - no skid marks, driver stated"
+AVOID_MAN_CD,3 - Braking - other evidence
+AVOID_MAN_CD,4 - Steering - evidence or driver stated
+AVOID_MAN_CD,5 - Steering and braking - evidence or stated
+AVOID_MAN_CD,6 - Other avoidance maneuver
+AVOID_MAN_CD,7 - Inconclusive
+BODY_TYPE,01 - Convertible
+BODY_TYPE,"02 - 2-Door sedan, hardtop or coupe"
+BODY_TYPE,03 - 3-Door hatch back
+BODY_TYPE,04 - 4-Door sedan or hardtop
+BODY_TYPE,05 - 5-Door sedan or hatch back
+BODY_TYPE,06 - Station wagon. Excluding van and truck-based
+BODY_TYPE,08 - Other automobile type
+BODY_TYPE,09 - Unknown automobile type
+BODY_TYPE,10 - Automobile-based pickup
+BODY_TYPE,11 - Automobile-based panel truck
+BODY_TYPE,12 - Compact utility e.g. Tracker; Cherokee; etc.
+BODY_TYPE,13 - Large limousine
+BODY_TYPE,14 - 3-wheel automobile or auto derivative 
+BODY_TYPE,15 - Large utility; Tahoe; Range Rover; Etc.
+BODY_TYPE,16 - Utility Station Wagon
+BODY_TYPE,19 - Unknown utility style body type
+BODY_TYPE,20 - Motorcycle
+BODY_TYPE,21 - Moped
+BODY_TYPE,22 - Three-wheeled motorcycle or moped
+BODY_TYPE,23 - Off-road motorcycle
+BODY_TYPE,24 - ATV - all terrain vehicle
+BODY_TYPE,25 - Mini-bike or motor scooter
+BODY_TYPE,28 - Other motorcycle type
+BODY_TYPE,29 - Unknown motorcycle type
+BODY_TYPE,30 - School bus
+BODY_TYPE,31 - Cross country or inner-city bus (i.e. Greyhound bus)
+BODY_TYPE,32 - Transit bus
+BODY_TYPE,38 - Other bus
+BODY_TYPE,39 - Unknown bus
+BODY_TYPE,40 - Mini-van
+BODY_TYPE,41 - Large van
+BODY_TYPE,42 - Step-in or walk-in van
+BODY_TYPE,43 - Van-based motor home
+BODY_TYPE,44 - Van-based school bus
+BODY_TYPE,45 - Van-based transit bus
+BODY_TYPE,48 - Other type van
+BODY_TYPE,49 - Unknown van type
+BODY_TYPE,50 - Compact pickup
+BODY_TYPE,51 - Standard pickup
+BODY_TYPE,52 - Pickup with slide in camper
+BODY_TYPE,53 - Convertible pickup
+BODY_TYPE,58 - Other pickup type
+BODY_TYPE,59 - Unknown pickup type
+BODY_TYPE,"60 - Cab chassis-based (includes light stake, dump, tow trucks)"
+BODY_TYPE,61 - Truck-based panel
+BODY_TYPE,62 - Light truck-based motor home
+BODY_TYPE,68 - Other light conventional truck
+BODY_TYPE,69 - Unknown light truck
+BODY_TYPE,"70 - Single unit straight truck (10000<=""19500)"
+BODY_TYPE,"71 - Single unit straight truck (19500<=""26000)"
+BODY_TYPE,72 - Single unit straight truck (GVWR>26000)
+BODY_TYPE,73 - Single unit straight truck (GVWR unknown)
+BODY_TYPE,74 - Medium or heavy truck-based motor home
+BODY_TYPE,75 - Truck tractor with or without trailers
+BODY_TYPE,76 - Big step van
+BODY_TYPE,78 - Camper or motor home unknown truck type
+BODY_TYPE,79 - Unknown heavy truck
+BODY_TYPE,80 - Snowmobile
+BODY_TYPE,81 - Farm equipment other than trucks
+BODY_TYPE,82 - Construction equipment other than trucks
+BODY_TYPE,88 - Other type special vehicles
+BODY_TYPE,90 - Unicycle or bicycle or tricycle
+BODY_TYPE,91 - Other pedal cycle
+BODY_TYPE,92 - Horse and Buggy
+BODY_TYPE,93 - Horse and rider
+BODY_TYPE,94 - Train
+BODY_TYPE,95 - Trolley
+BODY_TYPE,98 - Other body type
+BODY_TYPE,99 - Unknown body type
+CARGO_BD_TYPE,0 - Not Applicable
+CARGO_BD_TYPE,1 - Van/Enclosed Box
+CARGO_BD_TYPE,2 - Cargo Tank
+CARGO_BD_TYPE,3 - Flat Bed
+CARGO_BD_TYPE,4 - Dump
+CARGO_BD_TYPE,5 - Concrete Mixer
+CARGO_BD_TYPE,6 - Auto Transport
+CARGO_BD_TYPE,7 - Garbage/Refuse
+CARGO_BD_TYPE,8 - Bus
+CARGO_BD_TYPE,9 - Unknown (Expired 1-1-2022)
+CARGO_BD_TYPE,10 – Grain/Chips/Gravel
+CARGO_BD_TYPE,11 – Intermodal Container Chassis
+CARGO_BD_TYPE,12 – Log/Pole Carrier
+CARGO_BD_TYPE,13 – Vehicle Towing Another Vehicle
+CARGO_BD_TYPE,98 - Other
+CARGO_BD_TYPE,99 – Unknown
+CLOTHING_TYPE,1 - Light
+CLOTHING_TYPE,2 - Dark
+CLOTHING_TYPE,3 - Reflective
+CLOTHING_TYPE,9 - Unknown
+COLLISION_TYPE,0 - Non-collision
+COLLISION_TYPE,1 - Rear-end
+COLLISION_TYPE,2 - Head-on
+COLLISION_TYPE,3 - Backing
+COLLISION_TYPE,4 - Angle
+COLLISION_TYPE,5 - Sideswipe (same dir.)
+COLLISION_TYPE,6 - Sideswipe (Opposite dir.)
+COLLISION_TYPE,7 - Hit fixed object
+COLLISION_TYPE,8 - Hit pedestrian
+COLLISION_TYPE,98 - Other
+COLLISION_TYPE,99 - Unknown
+COUNTY,01 - ADAMS
+COUNTY,02 - ALLEGHENY
+COUNTY,03 - ARMSTRONG
+COUNTY,04 - BEAVER
+COUNTY,05 - BEDFORD
+COUNTY,06 - BERKS
+COUNTY,07 - BLAIR
+COUNTY,08 - BRADFORD
+COUNTY,09 - BUCKS
+COUNTY,10 - BUTLER
+COUNTY,11 - CAMBRIA
+COUNTY,12 - CAMERON
+COUNTY,13 - CARBON
+COUNTY,14 - CENTRE
+COUNTY,15 - CHESTER
+COUNTY,16 - CLARION
+COUNTY,17 - CLEARFIELD
+COUNTY,18 - CLINTON
+COUNTY,19 - COLUMBIA
+COUNTY,20 - CRAWFORD
+COUNTY,21 - CUMBERLAND
+COUNTY,22 - DAUPHIN
+COUNTY,23 - DELAWARE
+COUNTY,24 - ELK
+COUNTY,25 - ERIE
+COUNTY,26 - FAYETTE
+COUNTY,27 - FOREST
+COUNTY,28 - FRANKLIN
+COUNTY,29 - FULTON
+COUNTY,30 - GREENE
+COUNTY,31 - HUNTINGDON
+COUNTY,32 - INDIANA
+COUNTY,33 - JEFFERSON
+COUNTY,34 - JUNIATA
+COUNTY,35 - LACKAWANNA
+COUNTY,36 - LANCASTER
+COUNTY,37 - LAWRENCE
+COUNTY,38 - LEBANON
+COUNTY,39 - LEHIGH
+COUNTY,40 - LUZERNE
+COUNTY,41 - LYCOMING
+COUNTY,42 - MCKEAN
+COUNTY,43 - MERCER
+COUNTY,44 - MIFFLIN
+COUNTY,45 - MONROE
+COUNTY,46 - MONTGOMERY
+COUNTY,47 - MONTOUR
+COUNTY,48 - NORTHAMPTON
+COUNTY,49 -NORTHUMBERLAND
+COUNTY,50 - PERRY
+COUNTY,51 - PIKE
+COUNTY,52 - POTTER
+COUNTY,53 - SCHUYLKILL
+COUNTY,54 - SNYDER
+COUNTY,55 - SOMERSET
+COUNTY,56 - SULLIVAN
+COUNTY,57 - SUSQUEHANNA
+COUNTY,58 - TIOGA
+COUNTY,59 - UNION
+COUNTY,60 - VENANGO
+COUNTY,61 - WARREN
+COUNTY,62 - WASHINGTON
+COUNTY,63 - WAYNE
+COUNTY,64 - WESTMORELAND
+COUNTY,65 - WYOMING
+COUNTY,66 - YORK
+COUNTY,67 - PHILADELPHIA
+DAMAGE_IND,0 - None
+DAMAGE_IND,1 - Minor (Drivable)
+DAMAGE_IND,2 - Functional (mod. - may be undrivable
+DAMAGE_IND,3 - Disabling (severe - not drivable)
+DAMAGE_IND,9 - Unknown
+DAY_OF_WEEK,1 – Sunday
+DAY_OF_WEEK,2 – Monday
+DAY_OF_WEEK,3 – Tuesday
+DAY_OF_WEEK,4 – Wednesday
+DAY_OF_WEEK,5 – Thursday
+DAY_OF_WEEK,6 – Friday
+DAY_OF_WEEK,7 - Saturday
+DAY_OF_WEEK,9 – Unknown
+DISTRICT,"01 - District 1 (Crawford, Erie, Forest, Mercer, Venango, Warren Counties)"
+DISTRICT,"02 - District 2 (Cameron, Centre, Clearfield, Clinton, Elk, Juniata, McKean, Mifflin, Potter Counties)"
+DISTRICT,"03 - District 3 (Bradford, Columbia, Lycoming, Montour, Northumberland, Snyder, Sullivan, Tioga, Union Counties)"
+DISTRICT,"04 - District 4 (Lackawanna, Luzerne, Pike, Susquehanna, Wayne, Wyoming Counties)"
+DISTRICT,"05 - District 5 (Berks, Carbon, Lehigh, Monroe, Northampton, Schuylkill Counties)"
+DISTRICT,"06 - District 6 (Bucks, Chester, Delaware, Montgomery, Philadelphia Counties)"
+DISTRICT,"08 - District 8 (Adams, Cumberland, Dauphin, Franklin, Lancaster, Lebanon, Perry, York Counties)"
+DISTRICT,"09 - District 9 (Bedford, Blair, Cambria, Fulton, Huntington, Somerset Counties)"
+DISTRICT,"10 - District 10 (Armstrong, Butler, Clarion, Indiana, Jefferson Counties)"
+DISTRICT,"11 - District 11 (Allegheny, Beaver, Lawrence Counties)"
+DISTRICT,"12 - District 12 (Fayette, Greene, Washington, Westmoreland Counties)"
+DVR_PED_CONDITION,1 - Apparently Normal
+DVR_PED_CONDITION,2 - Had Been Drinking
+DVR_PED_CONDITION,3 - Illegal Drug Use
+DVR_PED_CONDITION,4 - Sick
+DVR_PED_CONDITION,5 - Fatigue
+DVR_PED_CONDITION,6 - Asleep
+DVR_PED_CONDITION,7 - Medication
+DVR_PED_CONDITION,9 - Unknown
+EJECT_PATH_CD,0 - Not Ejected / Not Applicable
+EJECT_PATH_CD,1 - Through side door opening
+EJECT_PATH_CD,2 - Through side window
+EJECT_PATH_CD,3 - Through windshield
+EJECT_PATH_CD,4 - Through back door
+EJECT_PATH_CD,5 - Through back door tailgate opening
+EJECT_PATH_CD,6 - Through roof opening sunroof or Convertible top down
+EJECT_PATH_CD,7 - Through roof opening (Convertible Top Up)
+EJECT_PATH_CD,8 - From Vehicle Exterior
+EJECT_PATH_CD,9 - Unknown
+EMERG_VEH_USE_CD,0 - Not in Emergency Use
+EMERG_VEH_USE_CD,1 - Lights Flashing
+EMERG_VEH_USE_CD,2 - Siren Sounding
+EMERG_VEH_USE_CD,3 - Both Lights and Siren
+EMERG_VEH_USE_CD,9 - Unknown
+EXTRIC_IND,0 - Not applicable
+EXTRIC_IND,1 - Not extricated
+EXTRIC_IND,2 - Extricated by mechanical means
+EXTRIC_IND,3 - Freed by non-mechanical means
+EXTRIC_IND,8 - Other
+GRADE,1 - Level Roadway
+GRADE,2 - Uphill
+GRADE,3 - Downhill
+GRADE,4 - Sag or bottom of hill
+GRADE,5 - Crest or top of hill
+GRADE,9 - Unknown
+HAZMAT_CODE,0 - Not Applicable - No Hazardous Material
+HAZMAT_CODE,1 - Explosives
+HAZMAT_CODE,2 - Gases - Compressed or Dissolved or Refrigerated
+HAZMAT_CODE,3 - Flammable Liquid
+HAZMAT_CODE,4 - Flammable Solids - Combustible or Water Reactive
+HAZMAT_CODE,5 - Oxidizing Substances - Organic Peroxides
+HAZMAT_CODE,6 - Poisonous (toxic) and Infectious Substances
+HAZMAT_CODE,7 - Radioactive Material
+HAZMAT_CODE,8 - Corrosives
+HAZMAT_CODE,9 - Miscellaneous Dangerous Goods
+HAZMAT_CODE,U - Unknown if any Hazardous Material Present
+HAZMAT_RELEASE_IND,1 - No Release
+HAZMAT_RELEASE_IND,2 - Release occurred
+HAZMAT_RELEASE_IND,9 - Unknown
+ILLUMINATION,1 - Daylight
+ILLUMINATION,2 - Dark - no streetlights
+ILLUMINATION,3 - Dark - streetlights
+ILLUMINATION,4 - Dusk
+ILLUMINATION,5 - Dawn
+ILLUMINATION,6 - Dark - unknown roadway lighting
+ILLUMINATION,8 - Other
+ILLUMINATION,9 - Unknown 
+NJ_SEVERITY,0 - Not injured
+NJ_SEVERITY,1 - Killed
+NJ_SEVERITY,2 – Suspected Serious injury
+NJ_SEVERITY,3 – Suspected Minor injury
+NJ_SEVERITY,4 – Possible Injury
+NJ_SEVERITY,8 - Injury/ Unknown Severity
+NJ_SEVERITY,9 - Unknown if Injured
+MAX_SEVERITY_LEVEL,0 - Not injured
+MAX_SEVERITY_LEVEL,1 - Fatal
+MAX_SEVERITY_LEVEL,2 - Suspected Serious injury
+MAX_SEVERITY_LEVEL,3 - Suspected Minor injury
+MAX_SEVERITY_LEVEL,4 - Possible Injury
+MAX_SEVERITY_LEVEL,8 - Injury/ Unknown Severity
+MAX_SEVERITY_LEVEL,9 - Unknown if Injured
+INTERSECT_TYPE,00 - Mid-block
+INTERSECT_TYPE,01 - Four-way intersection
+INTERSECT_TYPE,02 - “T” intersection
+INTERSECT_TYPE,03 - “Y” intersection
+INTERSECT_TYPE,04 - Traffic Circle/Roundabout (EXPIRED 1/1/18)
+INTERSECT_TYPE,05 - Multi-leg intersection
+INTERSECT_TYPE,06 - Ramp End
+INTERSECT_TYPE,07 - Ramp Begin
+INTERSECT_TYPE,08 - Crossover
+INTERSECT_TYPE,09 - Railroad crossing
+INTERSECT_TYPE,10 - Other
+INTERSECT_TYPE,11 - “L” Intersection
+INTERSECT_TYPE,12 - Traffic Circle
+INTERSECT_TYPE,13 - Roundabout
+INTERSECT_TYPE,99 - Unknown 
+IMPACT_POINT,00 - Non-collision
+IMPACT_POINT,01 - 1 O-Clock Position
+IMPACT_POINT,02 - 2 O-Clock Position
+IMPACT_POINT,03 - 3 O-Clock Position
+IMPACT_POINT,04 - 4 O-Clock Position
+IMPACT_POINT,05 - 5 O-Clock Position
+IMPACT_POINT,06 - 6 O-Clock Position
+IMPACT_POINT,07 - 7 O-Clock Position
+IMPACT_POINT,08 - 8 O-Clock Position
+IMPACT_POINT,09 - 9 O-Clock Position
+IMPACT_POINT,10 - 10 O-Clock Position
+IMPACT_POINT,11 - 11 O-Clock Position
+IMPACT_POINT,12 - 12 O-Clock Position
+IMPACT_POINT,13 - Top
+IMPACT_POINT,14 - Undercarriage
+IMPACT_POINT,15 - Towed Unit
+IMPACT_POINT,99 - Unknown
+LN_CLOSE_DIR,1 - North
+LN_CLOSE_DIR,2 - South
+LN_CLOSE_DIR,3 - East
+LN_CLOSE_DIR,4 - West 
+LN_CLOSE_DIR,5 - North and South
+LN_CLOSE_DIR,6 - East and West
+LN_CLOSE_DIR,"7 - All (N,S,E,W)"
+LOCATION_TYPE,0 - Not applicable
+LOCATION_TYPE,1 - Underpass
+LOCATION_TYPE,2 - Ramp
+LOCATION_TYPE,3 - Bridge
+LOCATION_TYPE,4 - Tunnel
+LOCATION_TYPE,5 - Toll Booth
+LOCATION_TYPE,6 - Cross over related
+LOCATION_TYPE,7 - Driveway or Parking Lot
+LOCATION_TYPE,8 - Ramp and bridge
+LOCATION_TYPE,99 - Unknown
+OWNER_DRIVER,00 Not Applicable
+OWNER_DRIVER,01 Private Vehicle Owned/Leased by Driver
+OWNER_DRIVER,02 Private Vehicle Not Owned/Leased by Driver
+OWNER_DRIVER,03 Rented Vehicle
+OWNER_DRIVER,04 State Police Vehicle
+OWNER_DRIVER,05 PennDOT Vehicle
+OWNER_DRIVER,06 Other State Gov Veh
+OWNER_DRIVER,07 Municipal Police Vehicle
+OWNER_DRIVER,08 Other Municipal Government Vehicle
+OWNER_DRIVER,09 Federal Gov Veh
+OWNER_DRIVER,98 Other
+OWNER_DRIVER,99 Unknown
+PED_LOCATION,01 - Marked crosswalks at intersection
+PED_LOCATION,02 - At intersection: no crosswalks
+PED_LOCATION,03 - Non-intersection - crosswalks
+PED_LOCATION,04 - Driveway access
+PED_LOCATION,05 - In Roadway
+PED_LOCATION,06 - Not in Roadway
+PED_LOCATION,07 - Median
+PED_LOCATION,08 - Island
+PED_LOCATION,09 - Shoulder
+PED_LOCATION,10 - Sidewalk
+PED_LOCATION,11 - Less than 10 feet off road
+PED_LOCATION,12 - Greater than 10 feet off road
+PED_LOCATION,13 - Outside Trafficway
+PED_LOCATION,14 - Shared Paths or Trails
+PED_LOCATION,99 - Unknown
+PED_SIGNAL,1 - Pedestrian signal
+PED_SIGNAL,2 - No pedestrian signal
+PED_SIGNAL,3 - Not at intersection
+PED_SIGNAL,9 - Unknown 
+PERSON_TYPE,1 - Driver
+PERSON_TYPE,2 - Passenger
+PERSON_TYPE,7 - Pedestrian
+PERSON_TYPE,8 - Other
+PERSON_TYPE,9 - Unknown
+RELATION_TO_ROAD,1 - On roadway
+RELATION_TO_ROAD,2 - Shoulder
+RELATION_TO_ROAD,3 - Median
+RELATION_TO_ROAD,4 - Roadside (off trafficway; on vehicle area)
+RELATION_TO_ROAD,5 - Outside trafficway (in area not meant for vehicles)
+RELATION_TO_ROAD,6 - In parking lane
+RELATION_TO_ROAD,7 - Gore (intersection of ramp and highway)
+RELATION_TO_ROAD,9 - Unknown
+RESTRAINT_HELMET,00 - None used or Not applicable
+RESTRAINT_HELMET,01 - Shoulder belt used
+RESTRAINT_HELMET,02 - Lap belt used
+RESTRAINT_HELMET,03 - Lap and shoulder belt used
+RESTRAINT_HELMET,04 - Child safety seat used (EXPIRED 1/1/18)
+RESTRAINT_HELMET,05 - Motorcycle helmet used
+RESTRAINT_HELMET,06 - Bicycle helmet used
+RESTRAINT_HELMET,10 - Safety belt used improperly
+RESTRAINT_HELMET,11 - Child safety seat used improperly
+RESTRAINT_HELMET,12 - Helmet used improperly
+RESTRAINT_HELMET,21 - Child safety Seat (Front Facing)
+RESTRAINT_HELMET,22 - Child Safety Seat (Rear Facing)
+RESTRAINT_HELMET,23 - Booster Seat
+RESTRAINT_HELMET,24 - Child Restraint Unknown
+RESTRAINT_HELMET,90 - Restraint used/ Type unknown
+RESTRAINT_HELMET,98 - Other
+RESTRAINT_HELMET,99 - Unknown
+RDWY_ALIGNMENT,1 - Straight
+RDWY_ALIGNMENT,2 - Curved (expired 1-1-20)
+RDWY_ALIGNMENT,3 - Curve Left
+RDWY_ALIGNMENT,4 - Curve Right
+RDWY_ALIGNMENT,9 - Unknown
+RDWY_ORIENT,E - East
+RDWY_ORIENT,N - North
+RDWY_ORIENT,S - South
+RDWY_ORIENT,U - Unknown
+RDWY_ORIENT,W - West
+RDWY_SURF_TYPE_CD,1 - Concrete
+RDWY_SURF_TYPE_CD,2 - Blacktop
+RDWY_SURF_TYPE_CD,3 - Brick or Block
+RDWY_SURF_TYPE_CD,"4 - Slag, Gravel, or Stone"
+RDWY_SURF_TYPE_CD,5 - Dirt
+RDWY_SURF_TYPE_CD,8 - Other
+RDWY_SURF_TYPE_CD,9 - Unknown
+ROAD_CONDITION,01 - Dry
+ROAD_CONDITION,02 - Ice/Frost
+ROAD_CONDITION,"03 - Mud, Dirt, Gravel"
+ROAD_CONDITION,04 -Oil
+ROAD_CONDITION,05 - Sand
+ROAD_CONDITION,06 - Slush
+ROAD_CONDITION,07 - Snow
+ROAD_CONDITION,08 - Water (Standing or Moving)
+ROAD_CONDITION,09 - Wet
+ROAD_CONDITION,"22 - Mud, Sand, Dirt, Oil (Expired 1-1-20)"
+ROAD_CONDITION,98 - Other
+ROAD_CONDITION,99 - Unknown
+ROAD_OWNER,1 - Interstate - (non-turnpike)
+ROAD_OWNER,2 - State highway
+ROAD_OWNER,3 - County road
+ROAD_OWNER,4 - Local road or street
+ROAD_OWNER,5 - East-West portion of turnpike
+ROAD_OWNER,6 - Turnpike spur (extension)
+ROAD_OWNER,7 - Private Road
+ROAD_OWNER,9 - Other or Unknown
+SEAT_POSITION,00 - Not a passenger or occupant
+SEAT_POSITION,01 - Driver - all vehicles
+SEAT_POSITION,02 - Front seat middle position
+SEAT_POSITION,03 - Front seat right side
+SEAT_POSITION,04 - Second row - left side or motorcycle passenger
+SEAT_POSITION,05 - Second row - middle position
+SEAT_POSITION,06 - Second row - right side
+SEAT_POSITION,07 - Third row or greater - left side
+SEAT_POSITION,08 - Third row or greater - middle position
+SEAT_POSITION,09 - Third row or greater - right side
+SEAT_POSITION,10 - Sleeper section of truck cab
+SEAT_POSITION,11 - In other enclosed passenger or cargo area
+SEAT_POSITION,12 - In open area (back of pickup etc.)
+SEAT_POSITION,13 - Trailing unit
+SEAT_POSITION,14 - Riding on vehicle exterior
+SEAT_POSITION,15 - Bus passenger
+SEAT_POSITION,21 - Fourth Row – Left Side
+SEAT_POSITION,22 - Fourth Row – Middle Position
+SEAT_POSITION,23 - Fourth Row – Right Side
+SEAT_POSITION,24 - Other Row – Left Side
+SEAT_POSITION,25 - Other Row – Middle Position
+SEAT_POSITION,26 - Other Row – Right Side
+SEAT_POSITION,27 - Unknown Row – Left Side
+SEAT_POSITION,28 - Unknown Row – Middle Position
+SEAT_POSITION,29 - Unknown Row – Left Side
+SEAT_POSITION,98 - Other
+SEAT_POSITION,99 - Unknown
+SEX,F - Female
+SEX,M - Male
+SEX,U - Unknown
+SPECIAL_USAGE,00 - Not applicable
+SPECIAL_USAGE,01 - Fire vehicle
+SPECIAL_USAGE,02 - Ambulance
+SPECIAL_USAGE,03 - Police
+SPECIAL_USAGE,08 - Other emergency vehicle
+SPECIAL_USAGE,11 - Pupil transport
+SPECIAL_USAGE,12 - Comm. passenger carrier
+SPECIAL_USAGE,13 - Taxi
+SPECIAL_USAGE,21 - Tractor trailer
+SPECIAL_USAGE,22 - Twin trailer
+SPECIAL_USAGE,23 - Triple trailer
+SPECIAL_USAGE,31 - Modified vehicle
+SPECIAL_USAGE,41 - Motorcycle - 2-Wheeled
+SPECIAL_USAGE,42 - Motorcycle - 3-Wheeled (two rear)
+SPECIAL_USAGE,43 - Motorcycle - 3-Wheeled (two front)
+SPECIAL_USAGE,44 - Motorcycle - Moped or Motorized Bicycle
+SPECIAL_USAGE,45 - Bicycle - Electric Assist
+SPECIAL_USAGE,46 - Van - Passenger (<9)
+SPECIAL_USAGE,47 - Van - Passenger (9-12)
+SPECIAL_USAGE,48 - Van - Passenger (15)
+SPECIAL_USAGE,49 - Van - Cargo
+SPECIAL_USAGE,99 - Unknown
+SPEC_JURIS_CD,0 - No Special Jurisdiction
+SPEC_JURIS_CD,1 - National Park
+SPEC_JURIS_CD,2 - Military
+SPEC_JURIS_CD,3 - Indian Reservation
+SPEC_JURIS_CD,4 - College/University Campus
+SPEC_JURIS_CD,5 - Other Federal Sites
+SPEC_JURIS_CD,8 - Other
+SPEC_JURIS_CD,9 - Unknown
+TCD_FUNC_CD,0 - No Controls
+TCD_FUNC_CD,1 - Device not Functioning
+TCD_FUNC_CD,2 - Device Functioning improperly
+TCD_FUNC_CD,3 - Device Functioning properly
+TCD_FUNC_CD,4 - Emergency Preemptive Signal
+TCD_FUNC_CD,9 - Unknown
+TCD_TYPE,0 - Not applicable
+TCD_TYPE,1 - Flashing traffic signal
+TCD_TYPE,2 - Traffic signal
+TCD_TYPE,3 - Stop sign
+TCD_TYPE,4 - Yield sign
+TCD_TYPE,5 - Active RR crossing controls
+TCD_TYPE,6 - Passive RR crossing controls
+TCD_TYPE,7 - Police officer or flagman
+TCD_TYPE,8 - Other Type TCD
+TCD_TYPE,9 - Unknown
+TRAVEL_DIRECTION,E - East
+TRAVEL_DIRECTION,N - North
+TRAVEL_DIRECTION,S - South
+TRAVEL_DIRECTION,U - Unknown
+TRAVEL_DIRECTION,W - West
+TRL_VEH_TYPE_CD,1 - Passenger vehicle
+TRL_VEH_TYPE_CD,2 - Truck
+TRL_VEH_TYPE_CD,3 - Utility trailer
+TRL_VEH_TYPE_CD,4 - Mobile or modular home
+TRL_VEH_TYPE_CD,5 - Camper
+TRL_VEH_TYPE_CD,6 - Trailer
+TRL_VEH_TYPE_CD,7 - Semi-trailer
+TRL_VEH_TYPE_CD,8 - Other
+TRL_VEH_TYPE_CD,9 - Unknown
+UNDER_RIDE_IND,0 - No under ride or override
+UNDER_RIDE_IND,"1 - Under ride, compartment intrusion"
+UNDER_RIDE_IND,"2 - Under ride, no compartment intrusion"
+UNDER_RIDE_IND,"3 - Under ride, compartment intrusion unknown"
+UNDER_RIDE_IND,"4 - Override, other vehicle"
+UNDER_RIDE_IND,9 - Unknown if under ride or override
+UNIT_TYPE,01 - Motor vehicle in transport
+UNIT_TYPE,02 - Legally parked
+UNIT_TYPE,03 - Illegally parked
+UNIT_TYPE,05 - Hit and run vehicle
+UNIT_TYPE,06 - Disabled from a previous crash
+UNIT_TYPE,11 - Non-motorized
+UNIT_TYPE,21 - Train
+UNIT_TYPE,31 - Pedestrian
+UNIT_TYPE,"32 - Pedestrian Conveyance (Wheelchair, etc.)"
+UNIT_TYPE,33 - Personal Delivery Device
+UNIT_TYPE,51 - Phantom vehicle
+URBAN_RURAL,1 - Rural
+URBAN_RURAL,2 - Urbanized
+URBAN_RURAL,3 - Urban
+VEH_COLOR_CD,01 - Blue
+VEH_COLOR_CD,02 - Red
+VEH_COLOR_CD,03 - White
+VEH_COLOR_CD,04 - Green
+VEH_COLOR_CD,05 - Black
+VEH_COLOR_CD,06 - Yellow
+VEH_COLOR_CD,07 - Silver
+VEH_COLOR_CD,08- Gold
+VEH_COLOR_CD,09 - Brown
+VEH_COLOR_CD,10 - Orange
+VEH_COLOR_CD,11 - Purple
+VEH_COLOR_CD,12 - Other
+VEH_COLOR_CD,99 - Unknown
+VEH_CONFIG_CD,00 - Not Applicable
+VEH_CONFIG_CD,01 - Passenger Car Record if Hazmat Placard displayed
+VEH_CONFIG_CD,"02 - Light Truck (Van, Minivan, Panel, PU, SUV w/Hazmat"
+VEH_CONFIG_CD,"03 - Single Unit Truck (2 Axles, 6 Tires)"
+VEH_CONFIG_CD,04 - Single Unit Truck ( 3 or more Axles)
+VEH_CONFIG_CD,05 - Single Unit Truck (Unknown Number of Axles)
+VEH_CONFIG_CD,06 - Truck/Trailer
+VEH_CONFIG_CD,07 - Truck Tractor (Bobtail)
+VEH_CONFIG_CD,08 - Tractor/Semi-Trailer
+VEH_CONFIG_CD,09 - Medium Heavy Truck- Cannot Classify
+VEH_CONFIG_CD,10 - Minibus
+VEH_CONFIG_CD,"11 - Bus ( Seats more than 15 People, Including the Driver (expired 1-1-20)"
+VEH_CONFIG_CD,12 - School Bus
+VEH_CONFIG_CD,13 - Transit Bus
+VEH_CONFIG_CD,14 - Motor Coach
+VEH_CONFIG_CD,15 - Other Bus
+VEH_CONFIG_CD,98 - Other
+VEH_CONFIG_CD,99 - Unknown
+VEH_MOVEMENT,01 - Going straight
+VEH_MOVEMENT,02 - Slowing or stopping in lane
+VEH_MOVEMENT,03 - Stopped in traffic lane
+VEH_MOVEMENT,04 - Passing or overtaking vehicle
+VEH_MOVEMENT,05 - Leaving a parked position (expired 1-1-20)
+VEH_MOVEMENT,06 - Parked
+VEH_MOVEMENT,07 - Entering a parked position (expired 1-1-20)
+VEH_MOVEMENT,"08 - Trying to avoid animal, pedestrian, object, vehicle, etc."
+VEH_MOVEMENT,09 - Turning right on red
+VEH_MOVEMENT,10 - Turning right
+VEH_MOVEMENT,11 - Turning left on red
+VEH_MOVEMENT,12 - Turning left
+VEH_MOVEMENT,13 - Making a U-turn
+VEH_MOVEMENT,14 - Backing up
+VEH_MOVEMENT,15 - Changing lanes or merging
+VEH_MOVEMENT,16 - Negotiating Curve Right
+VEH_MOVEMENT,17 - Negotiating curve - left
+VEH_MOVEMENT,18 - Entering Traffic Lane
+VEH_MOVEMENT,19 - Leaving Traffic Lane
+VEH_MOVEMENT,98 - Other
+VEH_MOVEMENT,99 - Unknown
+VEH_POSITION,00 - Not applicable (for peds.)
+VEH_POSITION,01 - Right lane (Curb)
+VEH_POSITION,02 - Right turn lane
+VEH_POSITION,03 - Left lane
+VEH_POSITION,04 - Left turn lane
+VEH_POSITION,05 - Two-direction center turn lane
+VEH_POSITION,06 - Other forward moving lane
+VEH_POSITION,07 - Oncoming traffic lane
+VEH_POSITION,08 - Left of trafficway
+VEH_POSITION,09 - Right of trafficway
+VEH_POSITION,10 - HOV lane
+VEH_POSITION,11 - Shoulder rig
+VEH_POSITION,12 - Shoulder left
+VEH_POSITION,13 - One lane road
+VEH_POSITION,14 - Acceleration/Deceleration Lane
+VEH_POSITION,98 - Other
+VEH_POSITION,99 - Unknown
+VEH_ROLE,0 - Non-Collision
+VEH_ROLE,1 - Striking
+VEH_ROLE,2 - Struck
+VEH_ROLE,3 - Striking and Struck
+VEH_TYPE,01 - Automobile
+VEH_TYPE,02 - Motorcycle
+VEH_TYPE,03 - Bus
+VEH_TYPE,04 - Small truck
+VEH_TYPE,05 - Large truck
+VEH_TYPE,06 - SUV
+VEH_TYPE,07 - Van
+VEH_TYPE,08 - Autocycle
+VEH_TYPE,09 - ROV
+VEH_TYPE,10 - Snowmobile
+VEH_TYPE,11 - Farm Equipment
+VEH_TYPE,12 - Construction Equipment
+VEH_TYPE,13 - ATV
+VEH_TYPE,14 - Golf Cart
+VEH_TYPE,15 - Low Speed Vehicle
+VEH_TYPE,16 - Large Limo
+VEH_TYPE,17 - Motor Home (RV)
+VEH_TYPE,18 - Other type special vehicle
+VEH_TYPE,19 - Unknown type special vehicle
+VEH_TYPE,20 - Bicycle
+VEH_TYPE,21 - Other Pedalcycle
+VEH_TYPE,22 - Horse and buggy
+VEH_TYPE,23 - Horse and rider
+VEH_TYPE,24 - Train
+VEH_TYPE,25 – Trolley
+VEH_TYPE,98 - Other
+VEH_TYPE,99 - Unknown
+VINA_BODY_TYPE_CD,MAT - All Terrain
+VINA_BODY_TYPE_CD,MEN - Enduro
+VINA_BODY_TYPE_CD,MMK - Mini Bike
+VINA_BODY_TYPE_CD,MMM - Mini Moto Cross
+VINA_BODY_TYPE_CD,MMP - Moped
+VINA_BODY_TYPE_CD,MMR - Mini Road / Trail
+VINA_BODY_TYPE_CD,MMS - Motor Scooter
+VINA_BODY_TYPE_CD,MMX - Moto Cross
+VINA_BODY_TYPE_CD,MMY - Mini Cycle
+VINA_BODY_TYPE_CD,MRC - Racer
+VINA_BODY_TYPE_CD,MRS - Road / Street
+VINA_BODY_TYPE_CD,MRT - Road / Trail
+VINA_BODY_TYPE_CD,MT - Dirt
+VINA_BODY_TYPE_CD,MTL - Trail / Dirt
+VINA_BODY_TYPE_CD,MTR - Trail
+VINA_BODY_TYPE_CD,P2D - Sedan 2 Dr.
+VINA_BODY_TYPE_CD,P2F - Formal Hardtop 2 Dr.
+VINA_BODY_TYPE_CD,P2H - Hatchback 2 Dr.
+VINA_BODY_TYPE_CD,P2L - Liftback 3 Dr.
+VINA_BODY_TYPE_CD,P2P - Pillard Hardtop 2 Dr.
+VINA_BODY_TYPE_CD,P2T - Hardtop 2 Dr.
+VINA_BODY_TYPE_CD,P4W - Wagon 4 Dr.
+VINA_BODY_TYPE_CD,P5D - Sedan 5 Dr.
+VINA_BODY_TYPE_CD,PAM - Ambulance
+VINA_BODY_TYPE_CD,PCB - Cab & Chassis (Luv)
+VINA_BODY_TYPE_CD,PCP - Coupe
+VINA_BODY_TYPE_CD,PCV - Convertible (Jeep)
+VINA_BODY_TYPE_CD,PHB - Hatchback
+VINA_BODY_TYPE_CD,PHR - Hearse
+VINA_BODY_TYPE_CD,PHT - Hardtop
+VINA_BODY_TYPE_CD,PIN - Incomplete Passenger
+VINA_BODY_TYPE_CD,PLB - Liftback
+VINA_BODY_TYPE_CD,PLM - Limousine
+VINA_BODY_TYPE_CD,PNB - Notchback
+VINA_BODY_TYPE_CD,PPK - Pickup
+VINA_BODY_TYPE_CD,PPN - Panel
+VINA_BODY_TYPE_CD,PRD - Roadster
+VINA_BODY_TYPE_CD,PSB - Sport Hatchback
+VINA_BODY_TYPE_CD,PSC - Sport Coupe
+VINA_BODY_TYPE_CD,T3C - 3 Dr. Extended Cab Pickup
+VINA_BODY_TYPE_CD,T4B - 4 Dr. Extended Cab / Chassis
+VINA_BODY_TYPE_CD,T4C - 4 Dr. Extended Cab Pickup
+VINA_BODY_TYPE_CD,T4W - 4 Dr. Wagon / Sport Utility
+VINA_BODY_TYPE_CD,T8V - 8 Passenger Sport Van
+VINA_BODY_TYPE_CD,TAC - Auto Carrier
+VINA_BODY_TYPE_CD,TAR - Armored Truck
+VINA_BODY_TYPE_CD,TBU - Bus
+VINA_BODY_TYPE_CD,TCB - Chassis and Cab
+VINA_BODY_TYPE_CD,TCC - Conventional Cab
+VINA_BODY_TYPE_CD,TCG - Cargo Van
+VINA_BODY_TYPE_CD,TCH - Crew Chassis
+VINA_BODY_TYPE_CD,TCL - Club Chassis
+VINA_BODY_TYPE_CD,TCM - Concrete or Transit Mixer
+VINA_BODY_TYPE_CD,TCR - Crane
+VINA_BODY_TYPE_CD,TCS - Super Cab / Chassis Pickup
+VINA_BODY_TYPE_CD,TCU - Custom Pickup
+VINA_BODY_TYPE_CD,"TCV - Convertible (Jeep Commando, Suzuki Samurai,etc) "
+VINA_BODY_TYPE_CD,TCW - Crew Pickup
+VINA_BODY_TYPE_CD,TCY - Cargo Cutaway
+VINA_BODY_TYPE_CD,TDP - Dump
+VINA_BODY_TYPE_CD,"TDS - Truck, Tractor (diesel)"
+VINA_BODY_TYPE_CD,TEC - Extended Cargo Van
+VINA_BODY_TYPE_CD,TES - Extended Sport Van
+VINA_BODY_TYPE_CD,TEV - Ext Van
+VINA_BODY_TYPE_CD,TEW - Extended Window Van
+VINA_BODY_TYPE_CD,TFB - Flatbed or Platform
+VINA_BODY_TYPE_CD,TFC - Forward Control (Land Rover)
+VINA_BODY_TYPE_CD,TFT - Fire Truck
+VINA_BODY_TYPE_CD,TGG - Garbage or Refuse
+VINA_BODY_TYPE_CD,TGL - Gliders
+VINA_BODY_TYPE_CD,TGN - Grain
+VINA_BODY_TYPE_CD,THO - Hopper
+VINA_BODY_TYPE_CD,TIC - Incomplete Chassis
+VINA_BODY_TYPE_CD,TIE - Incomplete External Van
+VINA_BODY_TYPE_CD,TLG - Logger
+VINA_BODY_TYPE_CD,TLL - Suburban & Carry All
+VINA_BODY_TYPE_CD,TMH - Motorized Home
+VINA_BODY_TYPE_CD,TMP - Multi-purpose
+VINA_BODY_TYPE_CD,TMV - Maxi Van
+VINA_BODY_TYPE_CD,TMW - Maxi Wagon
+VINA_BODY_TYPE_CD,TMY - Motorized Cutaway
+VINA_BODY_TYPE_CD,TPC - Club Cab Pickup
+VINA_BODY_TYPE_CD,TPD - Parcel Delivery
+VINA_BODY_TYPE_CD,TPK - Pickup
+VINA_BODY_TYPE_CD,TPM - Pickup with Camper mounted on bed
+VINA_BODY_TYPE_CD,TPN - Panel
+VINA_BODY_TYPE_CD,TPS - Super Cab Pickup
+VINA_BODY_TYPE_CD,"TRD - Roadster (Jeep, Jeep Commando)"
+VINA_BODY_TYPE_CD,TS1 - one Seat
+VINA_BODY_TYPE_CD,TS2 - Two Seat
+VINA_BODY_TYPE_CD,TSN - Step Van
+VINA_BODY_TYPE_CD,TSP - Sport Pickup
+VINA_BODY_TYPE_CD,TST - Stake or Rack
+VINA_BODY_TYPE_CD,TSV - Sports Van
+VINA_BODY_TYPE_CD,"TSW - Station Wagon (Jeep Wagoneer, Dodge Sportsman)"
+VINA_BODY_TYPE_CD,TTB - Tilt Cab
+VINA_BODY_TYPE_CD,TTL - Tilt Tandem
+VINA_BODY_TYPE_CD,TTM - Tandem
+VINA_BODY_TYPE_CD,TTN - Tank
+VINA_BODY_TYPE_CD,TTR - Tractor Truck (Gasoline)
+VINA_BODY_TYPE_CD,"TUT - Utility (Blazer, Jimmy, Scout, etc.)"
+VINA_BODY_TYPE_CD,TVC - Van Camper
+VINA_BODY_TYPE_CD,TVD - Display Van
+VINA_BODY_TYPE_CD,TVN - Van
+VINA_BODY_TYPE_CD,TVT - Vanette (including Metro and Handy Van)
+VINA_BODY_TYPE_CD,TVW - Window Van
+VINA_BODY_TYPE_CD,TWK - Tow Truck Wrecker
+VINA_BODY_TYPE_CD,TWW - Wide Wheel Wagon
+VINA_BODY_TYPE_CD,TXT - Travelall
+VINA_BODY_TYPE_CD,TYY - Cutaway
+WEATHER1,"01 - Blowing Sand, Soil, Dirt"
+WEATHER1,02 - Blowing Snow
+WEATHER1,03 - Clear
+WEATHER1,04 - Cloudy
+WEATHER1,"05 - Fog, Smog, Smoke"
+WEATHER1,06 - Freezing Rain or Freezing Drizzle
+WEATHER1,07 - Rain
+WEATHER1,08 - Severe Crosswinds
+WEATHER1,09 - Sleet or Hail
+WEATHER1,10 - Snow
+WEATHER1,98 - Other
+WEATHER1,99 - Unknown
+WEATHER2,"01 - Blowing Sand, Soil, Dirt"
+WEATHER2,02 - Blowing Snow
+WEATHER2,03 - Clear
+WEATHER2,04 - Cloudy
+WEATHER2,"05 - Fog, Smog, Smoke"
+WEATHER2,06 - Freezing Rain or Freezing Drizzle
+WEATHER2,07 - Rain
+WEATHER2,08 - Severe Crosswinds
+WEATHER2,09 - Sleet or Hail
+WEATHER2,10 - Snow
+WEATHER2,98 - Other
+WORK_ZONE_LOC,1 - Before the 1st work zone warning sign
+WORK_ZONE_LOC,2 - Advance warning area
+WORK_ZONE_LOC,3 - Transition area
+WORK_ZONE_LOC,4 - Activity area
+WORK_ZONE_LOC,5 - Termination area
+WORK_ZONE_LOC,8 - Other
+WORK_ZONE_TYPE,1 - Construction
+WORK_ZONE_TYPE,2 - Maintenance
+WORK_ZONE_TYPE,3 - Utility company
+WORK_ZONE_TYPE,8 - Other
